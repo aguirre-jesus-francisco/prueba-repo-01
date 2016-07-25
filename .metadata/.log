@@ -1,0 +1,10 @@
+!SESSION 2016-07-25 17:09:59.164 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -data /home/jesus/git/prueba-repo-01 -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-25 17:11:14.851
+!MESSAGE Indexed 'prueba_2' (1 sources, 37 headers) in 0,695 sec: 1.041 declarations; 1.879 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
