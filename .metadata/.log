@@ -8,3 +8,19 @@ Command-line arguments:  -data /home/jesus/git/prueba-repo-01 -os linux -ws gtk 
 
 !ENTRY org.eclipse.cdt.core 1 0 2016-07-25 17:11:14.851
 !MESSAGE Indexed 'prueba_2' (1 sources, 37 headers) in 0,695 sec: 1.041 declarations; 1.879 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+!SESSION 2016-07-27 16:17:23.918 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-07-27 16:17:29.819
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-27 16:18:45.544
+!MESSAGE Indexed 'prueeba_2' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-07-27 16:20:00.411
+!MESSAGE Indexed 'prueba3' (1 sources, 0 headers) in 0,168 sec: 2 declarations; 1 references; 2 unresolved inclusions; 0 syntax errors; 1 unresolved names (25 %)
